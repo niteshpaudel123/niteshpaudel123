@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niteshpaude123.
+- 👋 Hi, I’m @niteshpaudel123.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python Projects.
